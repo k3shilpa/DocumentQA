@@ -1,0 +1,2 @@
+# DOCUMENT QA 
+This is a minimalist local Python script that reads a plain text document, merges its contents with a user's specific question, and passes that combined text to an AI model to get an accurate, context-aware answer. Instead of relying on general knowledge, the script forces the AI to answer exclusively using the facts found inside your uploaded file. This forms the absolute baseline mechanic behind modern production systems like ChatGPT's document search or corporate knowledge-base bots. 
