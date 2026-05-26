@@ -4,5 +4,5 @@
 Decided the project Document QA
 
 ## Day 2
-Functional Requirements and Non functional Requirements are gathered
-Reference papers are collected
+- Functional Requirements and Non functional Requirements are gathered
+- Collected Reference papers
